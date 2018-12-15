@@ -17,6 +17,7 @@ The training parts are in this order
 2. GAN with Auto Encoder
 3. GAN with Generator
 4. Classifier.
+
 The subsequent metrics and image plots are right after the training cells of each category mentioned above.
 
 Train the autoencoder first, then train any other section.
